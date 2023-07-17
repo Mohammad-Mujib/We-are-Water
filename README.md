@@ -2,7 +2,7 @@
 
 This repo is for the final project of Ironhack Data Analysis Bootcamp.
 
-![Water image](C:\Users\mujib\Ironhack\presentations\photos\water for repo.jpg)
+![Water image](https://static.sciencelearn.org.nz/images/images/000/002/343/full/Water20161110-17124-gv7a3b.jpg?1674168038)
 
 ## Topic
 
