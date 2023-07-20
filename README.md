@@ -49,7 +49,7 @@ Water is a very important element in our daily life. Without water we can't even
  
  ## Output 📬
  
- I have built an interactive dashboard. In my dashboard a user can find the information about all the reservoirs and their capacity of Comunidad de Madrid. Also the info about the deposits of water, evolution of consuming, elevation station, distribution and consumption per sector and the consumption of water of per habitants in per day.
+ I have built an interactive dashboard. In my dashboard a user can find the information about all the reservoirs and their capacity of Comunidad de Madrid. Also the info about the deposits of water, evolution of consuming, elevation station, distribution and consumption per sector and the consumption of water of per habitants in per day. And I am hopeful that it will help us all to be more consious about the use and waste of water.
  
  ## Contact info 💌
 
